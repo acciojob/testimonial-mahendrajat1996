@@ -1,1 +1,12 @@
 /*  your css code here. If applicable */
+.para {
+	background-color:white;
+	 padding:10px
+
+}
+
+#id {
+	background-color:#f5f5f5;
+	padding:10px 10px 20px 5px;
+	margin:5px 10px 50px 10px
+}
